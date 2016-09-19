@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Factory</string>
+    <string name="imagen">Figura a crear</string>
+    <string name="crear">Crear imagen</string>
+</resources>
